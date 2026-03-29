@@ -18,6 +18,7 @@ public class SelctionsSort {
                 mindx = j;
                 }
 
+
             }
              // yaha pe kya hora hai GOAL  hai hamara index 0(1st index ) pe smallest element lana
             // pass - 1 (i=0) inner loop j = 0 to 8  --->> min find at index 8 element is 1(min = 1,idx = 8)
