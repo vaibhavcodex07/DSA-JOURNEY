@@ -4,7 +4,7 @@ public class desendingbinary {
 
         int lo = 0;
         int hi = arr.length - 1;
-        int target = 29;
+        int target = 52;
 
         while (lo <= hi) {
             int mid = (lo + hi) / 2;
@@ -19,6 +19,7 @@ public class desendingbinary {
             else {
                 hi = mid - 1;
             }
+            
         }
     }
 }
